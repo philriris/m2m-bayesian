@@ -6,6 +6,8 @@
 
 ## Bayesian inference
 
+## Plotting and images
+
 # R session information
 
 ```
