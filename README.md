@@ -6,7 +6,7 @@
 
 ## Results
 
-#
+# R session information
 
 ```
 R version 4.3.0 (2023-04-21 ucrt)
