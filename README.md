@@ -1,10 +1,10 @@
 # From the Margins to the Mainstream: Code, Data, and Results
 
-## Data
+## Data and preparation
 
-## Code
+## Permutation tests
 
-## Results
+## Bayesian inference
 
 # R session information
 
