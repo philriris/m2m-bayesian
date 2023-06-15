@@ -1,0 +1,384 @@
+Date.n,SiteName,Number.of.dates.on.site,LabCode,Material,Age,Error,Longitude,Latitude,Author,River.basin,Calibrated,Method,Affiliation,Affiliation.num
+1,ARA 15,3,Beta-1506,NI,705,60,"-7,238,183,129","-0,615989544","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,,C14,Polychrome,1
+2,ARA 15,2,Beta-1508,NI,1120,65,"-7,238,183,129","-0,615989544","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,,C14,Polychrome,1
+3,ARA 7,1,Beta-1510,NI,340,50,"-7,239,515,309","-0,618779792","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+4,ARA 26,1,Beta-6950,NI,1160,50,"-723,969,792","-0,6008076",Andrade,Middle Caqueta,n,C14,Polychrome,1
+5,Puerto Arturo,1,GrN-14998,NI,740,35,"-724,078,552","-0,569783","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+6,Pena Roja,8,GrN-14996,NI,505,30,"-720,942,664","-0,6644154","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+7,Pena Roja,8,Beta-332851,NI,510,30,"-720,942,664","-0,6644154","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+8,Pena Roja,8,GrN-14988,NI,580,30,"-720,942,664","-0,6644154","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+9,Pena Roja,8,GrN-14993,NI,585,30,"-720,942,664","-0,6644154","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+10,Pena Roja,8,GrN-14989,NI,695,30,"-720,942,664","-0,6644154","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+11,Pena Roja,8,GrN-14991,NI,755,30,"-720,942,664","-0,6644154","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+12,Pena Roja,8,Beta-21891,NI,840,60,"-720,942,664","-0,6644154","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+13,Pena Roja,8,Beta-21890,NI,1020,70,"-720,942,664","-0,6644154","ARROYO-KALIN,Manuel et al. Entre La Pedrera y Araracuara: la arqueología del medio río Caqueta. Revista del Museo de La Plata,v. 4,n. 2,p. 305-330,2019.",Middle Caqueta,y,C14,Polychrome,1
+14,Finca Rivera (14),3,I-5776,Charcoal,920,90,"-7,016,654,998","-3,952,790,824","BOLIAN,C. Archaeological excavations in the trapecio of amazonas the polychrome tradition. PhD Dissertation: University of Illinois at Urbana Champaing. 1975",Upper Amazonas,,C14,Polychrome,1
+15,Finca Rivera (14),3,I-5773,Charcoal,435,90,"-7,016,654,998","-3,952,790,824","BOLIAN,C. Archaeological excavations in the trapecio of amazonas the polychrome tradition. PhD Dissertation: University of Illinois at Urbana Champaing. 1975",Upper Amazonas,,C14,Polychrome,1
+16,Finca Rivera (14),3,I-5777,Charcoal,685,90,"-7,016,654,998","-3,952,790,824","BOLIAN,C. Archaeological excavations in the trapecio of amazonas the polychrome tradition. PhD Dissertation: University of Illinois at Urbana Champaing. 1975",Upper Amazonas,,C14,Polychrome,1
+17,NP 2,2,P-269,charcoal from ceramics,771,51,"-7,547,685,149","-0,862814009","CABRERO,F. Omaguas - Cataclismo Amazónico. Tese de Doutorado. Universitat Autònoma de Barcelona,2014. e BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Napo,y,,Polychrome,1
+18,NP 2,2,P-347,charcoal from ceramics,782,53,"-7,547,685,149","-0,862814009","CABRERO,F. Omaguas - Cataclismo Amazónico. Tese de Doutorado. Universitat Autònoma de Barcelona,2014. e BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Napo,y,,Polychrome,1
+19,NP 3,1,SI 299,charcoal from ceramics,470,180,"-7,538,857,112","-0,928148924","CABRERO,F. Omaguas - Cataclismo Amazónico. Tese de Doutorado. Universitat Autònoma de Barcelona,2014. e BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Napo,y,,Polychrome,1
+20,TAM2,1,Y-1544,NI,630,60,"-7,431,356,922","-8,859,313,821","Lathrap,1970 apud BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Ucayali,y,,Polychrome,1
+21,TAM1,1,N-310,NI,575,105,"-7,427,226,455","-8,854,840,132","Lathrap,1970 apud BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Ucayali,y,,Polychrome,1
+22,Coari 1,1,P-373,Caraipe from ceramics,800,47,"-6,314,055,561","-4,084,166,717","Hilbert,1968,156",Middle Solimões,y,,Polychrome,1
+23,Boa Esperanca,1,Beta-321195,Caraipe from ceramics (bulk sherd organics),1220,30,"-64,746,371","-2,485,506","COSTA,B. L. S. Levantamento Arqueológico na Reserva de Desenvolvimento Sustentavel (RDS) Amana. Estado do Amazonas. Dissertacao de mestrado. Sao Paulo: MAE-USP,2012",Japura (Lower Caqueta),y,AMS,Polychrome,1
+24,Cacoal do Amana,1,Beta-383581,Caraipe from ceramics (bulk sherd organics),750,30,"-707,299,355","-2,505,682,942","GOMES,Jaqueline. Cronologia e mudanca cultural na RDS Amana (Amazonas): um estudo da fase caiambe da Tradicao Borda Incisa. Revista de Arqueologia,v. 30,n. 1,p. 258-259,2017.",Japura (Lower Caqueta),n,AMS,Polychrome,1
+25,Vilas,4,Beta-406074,Caraipe from ceramics (bulk sherd organics),1620,30,"-64,677,991","-335,979","BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Solimões,y,AMS,Polychrome,1
+26,Vilas,4,Beta-406075,Caraipe from ceramics (bulk sherd organics),1610,30,"-64,677,991","-335,979","BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Solimões,y,AMS,Polychrome,1
+27,Vilas,4,Beta-406076,Caraipe from ceramics (bulk sherd organics),1050,30,"-64,677,991","-335,979","BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Solimões,y,AMS,Polychrome,1
+28,Vilas,4,Beta-386835,Caraipe from ceramics (bulk sherd organics),970,30,"-64,677,991","-335,979","BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middle Solimões,y,AMS,Polychrome,1
+29,Tauari,3,Beta-386837,Caraipe from ceramics (bulk sherd organics),320,30,"-649,596,526","-3,635,231,732","BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middel Solimões,,AMS,Polychrome,1
+30,Tauari,3,Beta-386838,Caraipe from ceramics (bulk sherd organics),490,30,"-649,596,526","-3,635,231,732","BELLETTI,J. S. A arqueologia do Lago Tefe e a expansao polícroma. Dissertacao de mestrado. Sao Paulo: MAE-USP,2015.",Middel Solimões,,AMS,Polychrome,1
+31,Tauari,3,Beta-596118,Charcoal,940,30,"-649,596,526","-3,635,231,732","LOPES,not published",Middel Solimões,y,AMS,Polychrome,1
+32,Sao Joao,3,Beta-449137,Caraipe from ceramics (bulk sherd organics),1070,30,"-644,285","-3,516,389","LOPES,Rafael Cardoso de Almeida. A Tradicao Polícroma da Amazonia no contexto do medio rio Solimões (AM). 2018.",Middle Solimões,y,AMS,Polychrome,1
+33,Sao Joao,3,Beta-468051,Caraipe from ceramics (bulk sherd organics),650,30,"-644,285","-3,516,389","LOPES,Rafael Cardoso de Almeida. A Tradicao Polícroma da Amazonia no contexto do medio rio Solimões (AM). 2018.",Middle Solimões,y,AMS,Polychrome,1
+34,Sao Joao,3,Beta-484782,Charred maize seed,520,30,"-644,285","-3,516,389","LOPES,Rafael Cardoso de Almeida. A Tradicao Polícroma da Amazonia no contexto do medio rio Solimões (AM). 2018.",Middle Solimões,y,AMS,Polychrome,1
+35,Ponta da Castanha,3,Beta-596115,Charcoal,740,30,"-649,723,069","-3,524,829,335","LOPES,not published",Middle Solimões,y,AMS,Polychrome,1
+36,Ponta da Castanha,3,Beta-596116,Charcoal,370,30,"-649,723,069","-3,524,829,335","LOPES,not published",Middle Solimões,y,AMS,Polychrome,1
+37,Ponta da Castanha,3,Beta-599208,Charcoal,1540,30,"-649,723,069","-3,524,829,335","LOPES,not published",Middle Solimões,y,AMS,Polychrome,1
+38,Santa Fe,1,Beta-242454,Charcoal,1140,40,"-6,372,699,686","-4,251,999,056","NEVES,E. G. Servicos de Estudos de Prospeccao,Avaliacao,Salvamento e Resgate de Patrimonio Arqueológico na Implantacao de Faixa e Abertura de Valas no Gasoduto Coari-Manaus e no GLPDuto Urucu-Coari. IPHAN. Sao Paulo. 2010.",Middle Solimões,y,AMS,Polychrome,1
+39,Nova Esperanca,2,Beta 242447,Charcoal,850,40,"-6,385,907,167","-43,007,836","NEVES,E. G. Servicos de Estudos de Prospeccao,Avaliacao,Salvamento e Resgate de Patrimonio Arqueológico na Implantacao de Faixa e Abertura de Valas no Gasoduto Coari-Manaus e no GLPDuto Urucu-Coari. IPHAN. Sao Paulo. 2010.",Middle Solimões,y,AMS,Polychrome,1
+40,Nova Esperanca,2,Beta-124236,Charcoal,200,50,"-6,385,907,167","-43,007,836","NEVES,E. G. Servicos de Estudos de Prospeccao,Avaliacao,Salvamento e Resgate de Patrimonio Arqueológico na Implantacao de Faixa e Abertura de Valas no Gasoduto Coari-Manaus e no GLPDuto Urucu-Coari. IPHAN. Sao Paulo. 2010.",Middle Solimões,,,Polychrome,1
+41,Monte Sinai,2,Beta 242444,Charcoal,670,40,"-621,097,509","-36,302,219","NEVES,E. G. Servicos de Estudos de Prospeccao,Avaliacao,Salvamento e Resgate de Patrimonio Arqueológico na Implantacao de Faixa e Abertura de Valas no Gasoduto Coari-Manaus e no GLPDuto Urucu-Coari. IPHAN. Sao Paulo. 2010.",Lower Solimões,y,AMS,Polychrome,1
+42,Monte Sinai,2,Beta 242445,Charcoal,670,40,"-621,097,509","-36,302,219","NEVES,E. G. Servicos de Estudos de Prospeccao,Avaliacao,Salvamento e Resgate de Patrimonio Arqueológico na Implantacao de Faixa e Abertura de Valas no Gasoduto Coari-Manaus e no GLPDuto Urucu-Coari. IPHAN. Sao Paulo. 2010.",Lower Solimões,y,AMS,Polychrome,1
+50,Hatahara,2,Beta-143582,Charcoal,350,40,"-6,020,451,604","-3,274,590,055","MACHADO,Juliana Salles. Processos de formacao: hipóteses sobre a variabilidade do registro arqueológico de um montículo artificial no sítio Hatahara,Amazonas. Revista de Arqueologia,v. 18,n. 1,p. 9-24,2005.",Lower Solimões,y,C14,Polychrome,1
+51,Hatahara,2,Beta-143587,NI,570,40,"-6,020,451,604","-3,274,590,055","MACHADO,Juliana Salles. Processos de formacao: hipóteses sobre a variabilidade do registro arqueológico de um montículo artificial no sítio Hatahara,Amazonas. Revista de Arqueologia,v. 18,n. 1,p. 9-24,2005.",Lower Solimões,y,C14,Polychrome,1
+52,Laguinho,1,Beta-258148,Caraipe from ceramics (bulk sherd organics),630,40,"-6,012,817,098","-328,463,696","CASTRO,Marcio Walter de Moura. A cronologia dos sítios Lago do Iranduba e Laguinho à luz das hipóteses da ocupacao humana para a Amazonia Central. 2009. Tese de Doutorado. Universidade de Sao Paulo.",Lower Solimões,y,C14,Polychrome,1
+53,Lago do Limao,1,OxA 15504,Caraipe from ceramics (bulk sherd organics),625,26,"-6,034,264,401","-3,185,688,704","MORAES,Claide de Paula. Arqueologia na Amazonia Central vista de uma perspectiva da regiao do Lago do Limao. 2006. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+54,Antonio Galo,1,Beta-297122,Caraipe from ceramics (bulk sherd organics),210,30,"-6,033,472,785","-3,198,334,631","MORAES,Claide de Paula. Amazonia ano 1000: territorialidade e conflito no tempo das chefias regionais. 2013. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+55,Acutuba,6,Beta-109180,Charcoal,710,80,"-6,036,567,908","-3,095,248,949","TAMANAHA,Eduardo Kazuo. Ocupacao polícroma no baixo e medio rio Solimões,estado do Amazonas. 2012. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+56,Acutuba,6,Beta-97530,Cauixi temper,690,40,"-6,036,567,908","-3,095,248,949","TAMANAHA,Eduardo Kazuo. Ocupacao polícroma no baixo e medio rio Solimões,estado do Amazonas. 2012. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+57,Acutuba,6,Beta-109184,Charcoal,670,60,"-6,036,567,908","-3,095,248,949","TAMANAHA,Eduardo Kazuo. Ocupacao polícroma no baixo e medio rio Solimões,estado do Amazonas. 2012. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+58,Acutuba,6,Beta-109178,Charcoal,600,80,"-6,036,567,908","-3,095,248,949","TAMANAHA,Eduardo Kazuo. Ocupacao polícroma no baixo e medio rio Solimões,estado do Amazonas. 2012. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+59,Acutuba,6,Beta-109181,Charcoal,520,80,"-6,036,567,908","-3,095,248,949","TAMANAHA,Eduardo Kazuo. Ocupacao polícroma no baixo e medio rio Solimões,estado do Amazonas. 2012. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+60,Acutuba,6,Beta-109183,Charcoal,510,70,"-6,036,567,908","-3,095,248,949","TAMANAHA,Eduardo Kazuo. Ocupacao polícroma no baixo e medio rio Solimões,estado do Amazonas. 2012. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+61,Acutuba,6,Beta-97529,Caraipe from ceramics (bulk sherd organics),790,40,"-6,036,567,908","-3,095,248,949","TAMANAHA,Eduardo Kazuo. Ocupacao polícroma no baixo e medio rio Solimões,estado do Amazonas. 2012. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+62,Acutuba,6,Beta-90009,Caraipe from ceramics (bulk sherd organics),980,60,"-6,036,567,908","-3,095,248,949","TAMANAHA,Eduardo Kazuo. Ocupacao polícroma no baixo e medio rio Solimões,estado do Amazonas. 2012. Tese de Doutorado. Universidade de Sao Paulo.",Lower Negro,y,C14,Polychrome,1
+63,Engenho Velho,1,SI-4055,NI,1070,70,"-6,199,229,624","-1,394,975,375","SIMÕES,M. et al. Revista de Arqueologia 4 (1). Belem: Museu Paraense Emílio Goeldi,1987.",Middle Negro,y,,Polychrome,1
+64,Santa Rosa,1,SI-2751,NI,1125,90,"-6,077,588,322","-2,479,461,036","SIMÕES,M. et al. Revista de Arqueologia 4 (1). Belem: Museu Paraense Emílio Goeldi,1987.",Middle Negro,y,,Polychrome,1
+65,Terra Preta,2,SI-2752,NI,405,60,"-6,074,267,496","-2,465,388,199","SIMÕES,M. et al. Revista de Arqueologia 4 (1). Belem: Museu Paraense Emílio Goeldi,1987.",Middle Negro,y,,Polychrome,1
+66,Terra Preta,2,SI-4052,NI,390,95,"-6,074,267,496","-2,465,388,199","SIMÕES,M. et al. Revista de Arqueologia 4 (1). Belem: Museu Paraense Emílio Goeldi,1987.",Middle Negro,y,,Polychrome,1
+67,Nova Vida,1,SI-4054,NI,730,65,"-6,173,797,315","-1,445,766,534","SIMÕES,M. et al. Revista de Arqueologia 4 (1). Belem: Museu Paraense Emílio Goeldi,1987.",Middle Negro,y,,Polychrome,1
+68,Vista Alegre,1,SI-4053,NI,625,60,"-6,144,680,002","-1,901,424,305","SIMÕES,M. et al. Revista de Arqueologia 4 (1). Belem: Museu Paraense Emílio Goeldi,1987.",Middle Negro,y,,Polychrome,1
+69,Vila Nova II,2,Beta-408880,Caraipe from ceramics (bulk sherd organics),730,30,"-61,553,866","-1,573,746","LOPES,Rafael de Almeida. DE TIARAS E COBRAS: UM ESTUDO ARQUEOLÓGICO COMPARATIVO SOBRE A PRESENÇA E DISPERSÃO DA TRADIÇÃO POLÍCROMA DA AMAZÔNIA (TPA) ENTRE O MÉDIO RIO SOLIMÕES E O MÉDIO-BAIXO RIO NEGRO (AM).",Middle Negro,y,AMS,Polychrome,1
+70,Vila Nova II,2,Beta-408881,Caraipe from ceramics (bulk sherd organics),620,30,"-61,553,866","-1,573,746","LOPES,Rafael de Almeida. DE TIARAS E COBRAS: UM ESTUDO ARQUEOLÓGICO COMPARATIVO SOBRE A PRESENÇA E DISPERSÃO DA TRADIÇÃO POLÍCROMA DA AMAZÔNIA (TPA) ENTRE O MÉDIO RIO SOLIMÕES E O MÉDIO-BAIXO RIO NEGRO (AM).",Middle Negro,y,AMS,Polychrome,1
+71,AM-UR-32,1,Beta-48280,NI,1060,50,"-5,941,609,613","-2,038,508,005","MILLER,Eurico T. et al. Arqueologia nos empreendimentos hidreletricos da Eletronorte: resultados preliminares. Brasília: Eletronorte,1992.",Lower Amazonas,y,C14,Polychrome,1
+72,AM-UR-22,1,Beta-48286,NI,430,50,"-5,948,058,456","-1,892,624,262","MILLER,Eurico T. et al. Arqueologia nos empreendimentos hidreletricos da Eletronorte: resultados preliminares. Brasília: Eletronorte,1992.",Lower Amazonas,y,C14,Polychrome,1
+73,Borba,1,Beta-297124,Animal bone (burned bone organics collagen extraction: with alkali) ,600,30,"-59,569,217","-4,368,576","MORAES,C. P. Amazonia Ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. Sao Paulo: MAE/USP,2013.",Lower Madeira,y,,Polychrome,1
+74,Traipu,1,Beta-297123,Caraipe from ceramics (bulk sherd organics),280,30,"-5,990,993,352","-4,839,076,212","MORAES,C. P. Amazonia Ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. Sao Paulo: MAE/USP,2013.",Lower Madeira,y,,Polychrome,1
+75,Itapirema,3,Beta-280924,bulk sherd organics,620,60,"-63,528,664","-8,457,831","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,Radiometric,Polychrome,1
+76,Itapirema,3,Beta-280923,bulk sherd organics,590,40,"-63,528,664","-8,457,831","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,Radiometric,Polychrome,1
+77,Itapirema,3,Beta-280922,bulk sherd organics,540,40,"-63,528,664","-8,457,831","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,AMS,Polychrome,1
+78,Teotonio,6,Beta-323281,Charcoal,1250,30,"-64,055,557","-8,888,889","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,AMS,Polychrome,1
+79,Teotonio,6,Beta 514009,bulk sherd organics,540,30,"-64,055,557","-8,888,889","Kater,not published",Upper Madeira,y,AMS,Polychrome,1
+80,Teotonio,6,Beta 514010,bulk sherd organics,690,30,"-64,055,557","-8,888,889","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,AMS,Polychrome,1
+81,Teotonio,6,OxA-41243 ,Charred seed,875,19,"-64,055,557","-8,888,889","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,AMS,Polychrome,1
+82,Teotonio,6,OxA-41242 ,Charred seed,900,20,"-64,055,557","-8,888,889","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,AMS,Polychrome,1
+83,Associacao Calderita,3,Beta-258150,bulk sherd organics,620,40,"-63,521,702","-8,641,125","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,AMS,Polychrome,1
+84,Associacao Calderita,3,Beta-258149,bulk sherd organics,980,40,"-63,521,702","-8,641,125","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,AMS,Polychrome,1
+85,Associacao Calderita,3,Beta-258151,bulk sherd organics,940,40,"-63,521,702","-8,641,125","CNSA-IPHAN-RO / ALMEIDA,F. O. A Tradicao Polícroma no Alto Rio Madeira. Tese de doutorado. Sao Paulo: MAE-USP,2013.",Upper Madeira,y,AMS,Polychrome,1
+86,Monense,1,SI-4284,NI,545,60,"-62,485,423","-6,594,729","MORAES,C. P. Amazonia Ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. Sao Paulo: MAE/USP,2013.",Middle Madeira,y,,Polychrome,1
+87,Crato,1,SI-4270,NI,625,60,"-6,301,707,683","-751,730,664","MORAES,C. P. Amazonia Ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. Sao Paulo: MAE/USP,2013.",Middle Madeira,y,,Polychrome,1
+88,Mondego,1,SI-4273,NI,755,60,"-6,183,600,069","-6,249,786,089","MORAES,C. P. Amazonia Ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. Sao Paulo: MAE/USP,2013.",Middle Madeira,y,,Polychrome,1
+89,Banheiro,1,SI-4271,NI,845,45,"-6,302,168,987","-7,505,094,659","MORAES,C. P. Amazonia Ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. Sao Paulo: MAE/USP,2013.",Middle Madeira,y,,Polychrome,1
+90,Sao Domingos,2,Beta-294096,NI,500,30,"-62,931,558","-8,096,378","ZUSE,S. 2014. Variabilidade Cerâmica e Diversidade Cultural no Alto Madeira. Tese de Doutorado,MAE-USP.  ",Upper Madeira,y,AMS,Polychrome,1
+91,Sao Domingos,2,Beta-294097,NI,360,30,"-62,931,558","-8,096,378","ZUSE,S. 2014. Variabilidade Cerâmica e Diversidade Cultural no Alto Madeira. Tese de Doutorado,MAE-USP.  ",Upper Madeira,y,AMS,Polychrome,1
+92,Campelo,3,OxA-32996,NI,153,25,"-63,948,811","-8,795,722","ZUSE,S. 2014. Variabilidade Cerâmica e Diversidade Cultural no Alto Madeira. Tese de Doutorado,MAE-USP.  ",Upper Madeira,,,Polychrome,1
+93,Campelo,3,OxA-32997,NI,142,26,"-63,948,811","-8,795,722","ZUSE,S. 2014. Variabilidade Cerâmica e Diversidade Cultural no Alto Madeira. Tese de Doutorado,MAE-USP.  ",Upper Madeira,,,Polychrome,1
+94,Campelo,3,Beta- 260327,NI,370,40,"-63,948,811","-8,795,722","ZUSE,S. 2014. Variabilidade Cerâmica e Diversidade Cultural no Alto Madeira. Tese de Doutorado,MAE-USP.  ",Upper Madeira,y,AMS,Polychrome,1
+95,Novo Engenho Velho,1,Beta-260339,NI,490,50,"-63,926,256","-8,774,751","ZUSE,S. 2014. Variabilidade Cerâmica e Diversidade Cultural no Alto Madeira. Tese de Doutorado,MAE-USP.  ",Upper Madeira,y,AMS,Polychrome,1
+96,NOORH-49,1,NI,NI,1000,70,"-759,214,279","-0,9217173","ARROYO-KALIN,Manuel",,,,Polychrome,1
+97,Tumali,1,Beta-288357,NI,960,80,"-7,612,510,645","-0,297385209","ARROYO-KALIN,Manuel",,,,Polychrome,1
+99,Coracao,1,OxA-32999,NI,818,27,"-640,882,445","-89,739,343","ZUSE,Silvana et al. Tecnologias cerâmicas no alto rio Madeira: síntese,cronologia e perspectivas. Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas,v. 15,2020.",Upper Madeira,n,AMS,Polychrome,1
+100,Curralinho,1,SI-5377,NI,500,55,"-609,903","-56,187","MORAES,Claide de Paula. Arqueologia na Amazonia Central vista de uma perspectiva da regiao do Lago do Limao. 2006. Dissertacao de Mestrado. Universidade de Sao Paulo.",Lower Madeira,n,C14,Polychrome,1
+101,Canta 2,1,Beta-44263,NI,890,90,"-76,37","-1,59","Weber,Ronald L. 1992. Current Research: The Amazon,Eastern Brazil,and the Orinoco. American Antiquity 57 (1): 150-52.",,n,C14,Polychrome,1
+102,Igarape do Engenho,1,Beta-260330,NI,950,70,"-63,941","-8,789","ZUSE,Silvana et al. Tecnologias cerâmicas no alto rio Madeira: síntese,cronologia e perspectivas. Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas,v. 15,2020.",Upper Madeira,n,AMS,Polychrome,1
+103,Jauary,2,Beta-304000,NI,520,40,"-584,392","-31,512","Lima,Helena P,Luiza S AraÃºjo,and Bruno M Moraes. 2012. â€œAs CerÃ¢micas SaracÃ¡ e Cronologia Regional Do Rio Urubu.â€ In CerÃ¢micas ArqueolÃ³gicas Da AmazÃ´nia: Rumo a Uma Nova SÃ­ntese,edited by Cristiana Barreto,Helena P Lima,and Carla J Betancourt,301â€“14. BelÃ©m: IPHAN.",Urubu,n,AMS,Polychrome,1
+104,Jauary,2,Beta-303999,NI,420,40,"-584,392","-31,512","Lima,Helena P,Luiza S AraÃºjo,and Bruno M Moraes. 2012. â€œAs CerÃ¢micas SaracÃ¡ e Cronologia Regional Do Rio Urubu.â€ In CerÃ¢micas ArqueolÃ³gicas Da AmazÃ´nia: Rumo a Uma Nova SÃ­ntese,edited by Cristiana Barreto,Helena P Lima,and Carla J Betancourt,301â€“14. BelÃ©m: IPHAN.",Urubu,n,AMS,Polychrome,1
+105,Aguas Blancas,1,NI,NI,500,50,"-77,23","-0,05","YÃ©pez,Alden. 2000. â€œArqueologÃ­a Particular y ArqueologÃ­a de Rescate: AnÃ¡lisis BibliogrÃ¡fico de Las Investigaciones ArqueolÃ³gicas En La RegiÃ³n AmazÃ³nica Ecuatoriana.â€ Pontificia Universidad Catolica del Ecuador.",,n,NI,Polychrome,1
+106,Aguerito,NA,I-9667,Charcoal,715,150,-663.833,7.6,Rouse and Allaire 1978,,,,Arauquinoid,2
+107,Aguerito,NA,GX-6266,Charcoal,840,120,-663.833,7.6,Roosevelt 1997,,,,Arauquinoid,2
+108,Aguerito,NA,I-9666,Charcoal,1175,85,-663.833,7.6,Rouse and Allaire 1978,,,,Arauquinoid,2
+109,Boca del Parguaza,NA,I-9399*,Charcoal,515,75,-67.191,6.399,Rouse and Allaire 1978,,,,Arauquinoid,2
+110,Boekoe Creek II,NA,GrN-7936,,975,50,-543.978,5.671,Machado 1991,,,,Arauquinoid,2
+111,Bois Diable,NA,Beta-254054,Soil organic matter,750,40,-526.376,5.118,McKey et al. 2010,,,,Arauquinoid,2
+112,Camoruco,NA,I-8624,Charcoal,550,80,-6.578.734,7.852.287,Roosevelt 1997,,,,Arauquinoid,2
+113,Corozal,NA,OxA-2497,Maize kernel,610,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+114,Corozal,NA,QC-2497,Maize kernels,610,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+115,Corozal,NA,OxA-2498,Maize kernel,685,65,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+116,K-VIII,NA,Beta-254058,Soil organic matter,1010,40,-52.694.189,5.198.794,McKey et al. 2010,,,,Arauquinoid,2
+117,La Rompia,NA,Gx-8985,Charcoal,300,140,-66.282.755,7.666.009,Tarble & Zucchi 1984,,,,Arauquinoid,2
+118,La Urbana,NA,I-9448,Charcoal,540,75,-66.929.975,7.120.028,Rouse and Allaire 1978,,,,Arauquinoid,2
+119,Laja de Manapire,NA,I-9449,,650,75,-66.106.612,7.709.385,Rouse and Allaire 1978,,,,Arauquinoid,2
+120,Picure,NA,OxA-34862,Charcoal,441,25,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+121,Picure,NA,OxA-34858,Charcoal,487,25,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+122,Picure,NA,OxA-34860,Charcoal,488,25,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+123,Picure,NA,OxA-34865,Charcoal,496,25,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+124,Picure,NA,OxA-34866,Charcoal,509,24,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+125,Picure,NA,OxA-34856,Charcoal,533,24,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+126,Picure,NA,OxA-34863,Charcoal,633,24,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+127,Picure,NA,OxA-34857,Charcoal,657,24,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+128,Picure,NA,OxA-34861,Charcoal,673,25,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+129,Picure,NA,OxA-34864,Charcoal,689,25,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+130,Picure,NA,OxA-35728,Charcoal,716,25,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+131,Picure,NA,OxA-34890,Charcoal,769,25,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+132,Picure,NA,OxA-34859,Charcoal,874,26,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+133,Picure,NA,OxA-35975,Charcoal,945,26,-67.629.454,5.640.491,Lozada Mendieta 2020,,,,Arauquinoid,2
+134,Rabo de Cochino,NA,OxA-36133,Charcoal,206,27,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+135,Rabo de Cochino,NA,OxA-36215,Charcoal,519,24,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+136,Rabo de Cochino,NA,OxA-36196,Charcoal,530,26,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+137,Rabo de Cochino,NA,OxA-36214,Charcoal,548,23,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+138,Rabo de Cochino,NA,OxA-36218,Charcoal,551,24,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+139,Rabo de Cochino,NA,OxA-36216,Charcoal,588,26,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+140,Rabo de Cochino,NA,OxA-36217,Charcoal,593,25,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+141,Rabo de Cochino,NA,Beta-22639,Charcoal,630,90,-6.759.829,5.794.582,Barse 1989,,,,Arauquinoid,2
+142,Rabo de Cochino,NA,OxA-36211,Charcoal,676,26,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+143,Rabo de Cochino,NA,Beta-22642,Charcoal,720,90,-6.759.829,5.794.582,Barse 1989,,,,Arauquinoid,2
+144,Rabo de Cochino,NA,OxA-36134,Charcoal,731,26,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+145,Rabo de Cochino,NA,OxA-36213,Charcoal,885,25,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+146,Rabo de Cochino,NA,OxA-36135,Charcoal,899,30,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+147,Rabo de Cochino,NA,OxA-36212,Charcoal,921,20,-6.759.829,5.794.582,Lozada Mendieta 2020,,,,Arauquinoid,2
+148,Rincon de los Indios,NA,I-9400,,835,80,-6.672.858,7.064.541,Rouse and Allaire 1978,,,,Arauquinoid,2
+149,Necuima,NA,IVIC-418,Charcoal,600,80,-62.65,8.366.667,R11 1969,,,,Arauquinoid,2
+150,Aguerito,NA,GX-6262,Charcoal,245,130,-663.833,7.6,Roosevelt 1997,,,,Arauquinoid,2
+151,Aguerito,NA,GX-6265,Charcoal,485,120,-663.833,7.6,Roosevelt 1997,,,,Arauquinoid,2
+152,Buena Vista (VE),NA,Gx-8989,Charcoal,400,120,-6.685.471,7.180.493,Tarble & Zucchi 1984,,,,Arauquinoid,2
+153,Buena Vista (VE),NA,Gx-8988,Charcoal,1005,140,-6.685.471,7.180.493,Tarble & Zucchi 1984,,,,Arauquinoid,2
+154,Cerro Aislado,NA,I-9397,Charcoal,765,80,-6.662.344,7.049.577,Rouse and Allaire 1978,,,,Arauquinoid,2
+155,El Valle,NA,Gx-8991,Charcoal,380,150,-66.740.402,711.339,Tarble & Zucchi 1984,,,,Arauquinoid,2
+156,El Valle,NA,Gx-8992,Charcoal,535,140,-66.740.402,711.339,Tarble & Zucchi 1984,,,,Arauquinoid,2
+157,La Rompia,NA,Gx-8984,Charcoal,655,125,-66.282.755,7.666.009,Tarble & Zucchi 1984,,,,Arauquinoid,2
+158,La Rompia,NA,Gx-8983,Charcoal,680,155,-66.282.755,7.666.009,Tarble & Zucchi 1984,,,,Arauquinoid,2
+159,La Rompia,NA,Gx-8982,Charcoal,900,155,-66.282.755,7.666.009,Tarble & Zucchi 1984,,,,Arauquinoid,2
+160,Matajey,NA,Gx-8980,Charcoal,995,160,-667.824,7.209.757,Tarble & Zucchi 1984,,,,Arauquinoid,2
+161,Matajey,NA,Gx-8981,Charcoal,1455,140,-667.824,7.209.757,Tarble & Zucchi 1984,,,,Arauquinoid,2
+162,Orupe,NA,Gx-8986,Charcoal,570,155,-67.483.888,6.253.953,Tarble & Zucchi 1984,,,,Arauquinoid,2
+163,AM-41,NA,KIA-33862,,1000,35,-53.204,5.479,Van den Bel 2015,,,,Arauquinoid,2
+164,Pointe Balate,NA,POZ-35842,,780,30,-54.029.973,5.494.024,Briand 2015,,,,Arauquinoid,2
+165,Pointe Balate,NA,KIA-36136,,795,25,-54.029.973,5.494.024,Van den Bel 2015,,,,Arauquinoid,2
+166,Pointe Balate,NA,POZ-35847,,825,30,-54.029.973,5.494.024,Briand 2015,,,,Arauquinoid,2
+167,Pointe Balate,NA,KIA-36137,,835,35,-54.029.973,5.494.024,Van den Bel 2015,,,,Arauquinoid,2
+168,Pointe Balate,NA,POZ-35846,,835,30,-54.029.973,5.494.024,Briand 2015,,,,Arauquinoid,2
+169,Pointe Balate,NA,POZ-35844,,905,30,-54.029.973,5.494.024,Briand 2015,,,,Arauquinoid,2
+170,Sable Blanc,NA,LY-4961,Charcoal,825,30,-53.215.427,5.481.317,McKey et al. 2010,,,,Arauquinoid,2
+171,Sable Blanc,NA,LY-4959,Charcoal,900,30,-53.215.427,5.481.317,McKey et al. 2010,,,,Arauquinoid,2
+172,Sable Blanc,NA,LY-4958,Charcoal,925,30,-53.215.427,5.481.317,McKey et al. 2010,,,,Arauquinoid,2
+173,Sable Blanc,NA,LY-4956,Charcoal,955,30,-53.215.427,5.481.317,McKey et al. 2010,,,,Arauquinoid,2
+174,Sable Blanc,NA,LY-4957,Charcoal,990,30,-53.215.427,5.481.317,McKey et al. 2010,,,,Arauquinoid,2
+175,Ronquin,NA,SI-1370,,490,45,-6.580.647,7.767.427,Roosevelt 1997,,,,Arauquinoid,2
+176,Ronquin,NA,SI-1369,,545,60,-6.580.647,7.767.427,Roosevelt 1997,,,,Arauquinoid,2
+177,Ronquin,NA,Beta-64528,Carbon soot,550,60,-6.580.647,7.767.427,Barse (2000),,,,Arauquinoid,2
+178,Ronquin,NA,I-8543,,750,80,-6.580.647,7.767.427,Roosevelt 1997,,,,Arauquinoid,2
+179,Ronquin,NA,SI-1368,,850,130,-6.580.647,7.767.427,Roosevelt 1997,,,,Arauquinoid,2
+180,Corozal,NA,QC-321,Charcoal,410,85,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+181,Corozal,NA,OxA-2491,Carbon soot,695,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+182,Corozal,NA,QC-325,Charcoal,830,85,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+183,Corozal,NA,OxA-2492,Carbon soot,915,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+184,Corozal,NA,QC-326,Charcoal,1200,85,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+185,Corozal,NA,QC-310B,Charcoal,410,80,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+186,Corozal,NA,QC-324-A,Charcoal,460,80,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+187,Corozal,NA,QC-310A,Charcoal,510,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+188,Corozal,NA,OxA-2489,Carbon soot,550,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+189,Corozal,NA,QC-319,Charcoal,715,75,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+190,Corozal,NA,OxA-2496,Maize kernel,820,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+191,Corozal,NA,OxA-2500,Maize kernel,865,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+192,Corozal,NA,OxA-2490,Carbon soot,1020,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+193,Camoruco,NA,I-8622,Charcoal,455,85,-6.578.734,7.852.287,Roosevelt 1997,,,,Arauquinoid,2
+194,Camoruco,NA,I-8623,Charcoal,470,80,-6.578.734,7.852.287,Roosevelt 1997,,,,Arauquinoid,2
+195,Camoruco,NA,I-8625,Charcoal,625,80,-6.578.734,7.852.287,Roosevelt 1997,,,,Arauquinoid,2
+196,Camoruco,NA,I-8626,Charcoal,670,80,-6.578.734,7.852.287,Roosevelt 1997,,,,Arauquinoid,2
+197,Corozal,NA,OxA-2487,Carbon soot,390,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+198,Corozal,NA,OxA-2499,Maize kernels,420,65,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+199,Corozal,NA,OxA-2488,Carbon soot,475,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+200,Corozal,NA,OxA-2495,Carbon soot,610,65,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+201,Corozal,NA,QC-309,Charcoal,860,70,-6.547.215,792.994,Roosevelt 1997,,,,Arauquinoid,2
+202,Los Algarrobotes,NA,OxA-2533,,510,80,-65.767,7.887,Roosevelt 1997,,,,Arauquinoid,2
+203,Aguerito,NA,GX-6267,Charcoal,665,120,-663.833,7.6,Roosevelt 1997,,,,Arauquinoid,2
+204,Aguerito,NA,GX-5178,Charcoal,830,125,-663.833,7.6,Roosevelt 1997,,,,Arauquinoid,2
+205,Aguerito,NA,I-10006,Charcoal,885,110,-663.833,7.6,Roosevelt 1997,,,,Arauquinoid,2
+206,Aguerito,NA,I-10007,Charcoal,995,115,-663.833,7.6,Roosevelt 1997,,,,Arauquinoid,2
+207,Aguerito,NA,GX-5179,Charcoal,1235,135,-663.833,7.6,Roosevelt 1997,,,,Arauquinoid,2
+208,Los Mangos,NA,QC-312A,Charcoal,340,80,-65.734,7.876,Roosevelt 1997,,,,Arauquinoid,2
+209,Los Mangos,NA,QC-313C,Charcoal,760,100,-65.734,7.876,Roosevelt 1997,,,,Arauquinoid,2
+210,Los Mangos,NA,QC-312B,Charcoal,900,90,-65.734,7.876,Roosevelt 1997,,,,Arauquinoid,2
+211,Los Mangos,NA,QC-313A,Charcoal,1170,90,-65.734,7.876,Roosevelt 1997,,,,Arauquinoid,2
+212,Saladero,NA,Y-38+39,,300,50,-622.009,86.817,Cruxent and Rouse 1958,,,,Arauquinoid,2
+213,Hertenrits,NA,GrN-1898,Charcoal,1130,45,-56.660.835,5.901.322,Rostain 1994,,,,Arauquinoid,2
+214,Hertenrits,NA,GrN-845c,,1130,60,-56.660.835,5.901.322,Rostain 1994,,,,Arauquinoid,2
+215,Hertenrits,NA,GrN-1897,Wood,1265,60,-56.660.835,5.901.322,Rostain 1994,,,,Arauquinoid,2
+216,Peruvia II,NA,GrN-9800,,755,35,-559.993,57.231,Rostain 1994,,,,Arauquinoid,2
+217,Peruvia II,NA,GrN-9361,,1210,30,-559.993,57.231,Rostain 1994,,,,Arauquinoid,2
+218,Prins Bernhard Polder,NA,GrN-9801,,790,25,-569.515,58.467,Rostain 1994,,,,Arauquinoid,2
+219,Prins Bernhard Polder,NA,GrN-8954,,935,50,-569.515,58.467,Rostain 1994,,,,Arauquinoid,2
+220,Prins Bernhard Polder,NA,GrN-8955,,1335,38,-569.515,58.467,Rostain 1994,,,,Arauquinoid,2
+221,Wageningen I,NA,GrN-9360,,1145,30,-56.636.877,5.887.927,Rostain 1994,,,,Arauquinoid,2
+222,Wageningen I,NA,GrN-9059,,1210,25,-56.636.877,5.887.927,Rouse and Allaire 1978,,,,Arauquinoid,2
+223,Wageningen I,NA,GrN-9060,,1230,25,-56.636.877,5.887.927,Rostain 1994,,,,Arauquinoid,2
+224,Wageningen I,NA,GrN-9359,,1240,30,-56.636.877,5.887.927,Rostain 1994,,,,Arauquinoid,2
+225,Wageningen I,NA,GrN-9061,,1245,25,-56.636.877,5.887.927,Rostain 1994,,,,Arauquinoid,2
+226,Wageningen I,NA,GrN-10301,,1310,30,-56.636.877,5.887.927,Rostain 1994,,,,Arauquinoid,2
+227,Tingiholo,NA,GrN-4552,Charcoal,970,50,-551.791,58.702,Rostain 1994,,,,Arauquinoid,2
+228,Tingiholo,NA,GrN-12913,Bone,1025,50,-551.791,58.702,Rostain 1994,,,,Arauquinoid,2
+229,Tingiholo,NA,GrN-8249,Charcoal,1050,100,-551.791,58.702,Rostain 1994,,,,Arauquinoid,2
+230,Tingiholo,NA,GrN-8250,Charcoal,1140,90,-551.791,58.702,Rostain 1994,,,,Arauquinoid,2
+231,Tingiholo,NA,GrN-12912,,1510,50,-551.791,58.702,Rostain 1994,,,,Arauquinoid,2
+232,Tucuragua,NA,I-8627,,565,80,-65.278.317,7.801.073,Roosevelt 1997,,,,Arauquinoid,2
+233,El Mamonal,NA,SI-860,Charcoal,1005,95,-62.656.734,8.457.216,Rouse and Allaire 1978,,,,Arauquinoid,2
+234,El Pailon,NA,SI-868,Charcoal,650,70,-62.786.733,8.426.234,Rouse and Allaire 1978,,,,Arauquinoid,2
+235,El Pailon,NA,SI-871,Charcoal,945,70,-62.786.733,8.426.234,Rouse and Allaire 1978,,,,Arauquinoid,2
+236,Los Culises,NA,SI-867,Charcoal,285,95,-62.684,8.408,Sanoja 1979,,,,Arauquinoid,2
+237,Los Culises,NA,SI-869,Charcoal,1360,75,-62.684,8.408,Rouse and Allaire 1978,,,,Arauquinoid,2
+238,Macapaima,NA,SI-873,Charcoal,845,70,-62.809,8.39,Rouse and Allaire 1978,,,,Arauquinoid,2
+239,Macapaima,NA,SI-872,Charcoal,1450,70,-62.809,8.39,Rouse and Allaire 1978,,,,Arauquinoid,2
+240,Bois Diable,NA,OBDY-794,Marine shell,910,40,-526.376,5.118,Rostain 1994,,,,Arauquinoid,2
+242,Glycerias,NA,OBDY-727,Charcoal,260,50,-52.303.241,4.890.464,Rostain 1994,,,,Arauquinoid,2
+243,Katoury,NA,ARC-2336,,690,50,-52.299.706,4.940.307,Mestre et al. 2005,,,,Arauquinoid,2
+244,Katoury,NA,ARC-2272,,755,45,-52.299.706,4.940.307,Mestre et al. 2005,,,,Arauquinoid,2
+245,Katoury,NA,ETH-27818,,1120,45,-52.299.706,4.940.307,Mestre et al. 2005,,,,Arauquinoid,2
+246,Katoury,NA,ETH-27817,,1130,50,-52.299.706,4.940.307,Mestre et al. 2005,,,,Arauquinoid,2
+247,L'Anse du Mahury,NA,LY-6612,,895,30,-522.546,48.652,Briand 2012,,,,Arauquinoid,2
+248,L'Anse du Mahury,NA,LY-6613,,1010,30,-522.546,48.652,Briand 2012,,,,Arauquinoid,2
+249,L'Anse du Mahury,NA,LY-6614,,1120,40,-522.546,48.652,Briand 2012,,,,Arauquinoid,2
+250,Lycee,NA,KIA-33044,,195,20,-52.31,4.93,Van den Bel 2015,,,,Arauquinoid,2
+251,Montabo,NA,OBDY-523,Charcoal,170,170,-52.3,4.94,Rostain 1994,,,,Arauquinoid,2
+252,PK-11,NA,POZ-42515,,205,25,-52.153.576,4.533.923,Van den Bel 2015,,,,Arauquinoid,2
+253,PK-11,NA,POZ-42485,,395,30,-52.153.576,4.533.923,Van den Bel 2015,,,,Arauquinoid,2
+254,PK-11,NA,POZ-42484,,585,35,-52.153.576,4.533.923,Van den Bel 2015,,,,Arauquinoid,2
+255,PK-11,NA,POZ-42486,,685,30,-52.153.576,4.533.923,Van den Bel 2015,,,,Arauquinoid,2
+256,PK-11,NA,POZ-42487,,910,30,-52.153.576,4.533.923,Van den Bel 2015,,,,Arauquinoid,2
+257,Poncel,NA,POZ-44817,,645,30,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+258,Poncel,NA,POZ-44821,,655,30,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+259,Poncel,NA,POZ-44823,,655,25,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+260,Poncel,NA,POZ-44828,,675,30,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+261,Poncel,NA,POZ-44835,,675,30,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+262,Poncel,NA,POZ-44820,,685,35,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+263,Poncel,NA,POZ-44822,Charcoal,770,40,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+264,Poncel,NA,POZ-44830,,895,30,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+265,Poncel,NA,POZ-44832,,895,35,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+266,Poncel,NA,POZ-44834,Charcoal,895,30,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+267,Poncel,NA,POZ-44831,,965,30,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+268,Poncel,NA,KIA-25851,,985,20,-52.304.272,4.900.923,Hildebrand 2004,,,,Arauquinoid,2
+269,Poncel,NA,POZ-44819,,1035,35,-52.304.272,4.900.923,Van den Bel 2014,,,,Arauquinoid,2
+270,Saint Cyr,NA,KIA-33482,,1090,35,-52.271.772,490.862,Van den Bel 2015,,,,Arauquinoid,2
+271,Sainte Agathe,NA,UGAMS-4567b,,505,80,-52.508.478,5.015.024,Samuelian 2009,,,,Arauquinoid,2
+272,Sainte Agathe,NA,UGAMS-4568,,540,25,-52.508.478,5.015.024,Samuelian 2009,,,,Arauquinoid,2
+273,Sainte Agathe,NA,OBDY-796,Marine shell,780,35,-52.508.478,5.015.024,Rostain 1994,,,,Arauquinoid,2
+274,Sainte Agathe,NA,UGAMS-4567a,,980,25,-52.508.478,5.015.024,Samuelian 2009,,,,Arauquinoid,2
+275,Wayabo,NA,POZ-30850,,395,30,-52.649.948,516.005,Briand 2011,,,,Arauquinoid,2
+276,Wayabo,NA,POZ-30854/5,,830,30,-52.649.948,516.005,Briand 2011,,,,Arauquinoid,2
+277,Wayabo,NA,POZ-33046,,860,30,-52.649.948,516.005,Briand 2011,,,,Arauquinoid,2
+278,Wayabo,NA,POZ-33044,,905,30,-52.649.948,516.005,Briand 2011,,,,Arauquinoid,2
+279,Wayabo,NA,POZ-33045,,935,30,-52.649.948,516.005,Briand 2011,,,,Arauquinoid,2
+280,Wayabo,NA,POZ-30853,,1160,30,-52.649.948,516.005,Briand 2011,,,,Arauquinoid,2
+281,Monou-Teri,NA,IVIC-574,Charcoal,500,170,-65.218.361,2.775.983,"Rouse,Allaire & Boomert",,,,Arauquinoid,2
+282,Monou-Teri,NA,IVIC-575,Charcoal,910,70,-65.218.361,2.775.983,"Rouse,Allaire & Boomert",,,,Arauquinoid,2
+283,Monou-Teri,NA,IVIC-573,Charcoal,1010,70,-65.218.361,2.775.983,"Rouse,Allaire & Boomert",,,,Arauquinoid,2
+284,Nokugl (MT-FX-006),NA,Beta-72260,Carvao,180,60,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+285,Saladero,NA,Y-39,Carvao,300,50,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
+286,Nokugl (MT-FX-006),NA,Beta-176137,Carvao,340,60,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+287,Nokugl (MT-FX-006),NA,Beta-81301,Carvao,360,70,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+288,Kuhikugl (MT-FX-011),NA,Beta-72262,Carvao,440,70,"-5,311,045,323","-1,255,866,583","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+289,Nokugl (MT-FX-006),NA,Beta-176135,Carvao,440,60,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+290,Saladero,NA,SI-870,Carvao,445,95,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
+291,Nokugl (MT-FX-006),NA,Beta-176140,Carvao,530,60,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+292,Nokugl (MT-FX-006),NA,Beta-176139,Carvao,590,60,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+293,Acutuba,NA,Beta-109178,Carvao,600,80,"-6,036,567,908","-3,095,248,949","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+294,X5,NA,Beta-177724,Carvao,670,60,?,?,"Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+295,Hialugihiti (MT-FX-013),NA,Beta-88362,Carvao,690,60,"-5,320,404,645","-1,235,298,493","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+296,Nokugl (MT-FX-006),NA,Beta-78979,Carvao,700,70,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+297,Acutuba,NA,Beta-109180,Carvao,710,80,"-6,036,567,908","-3,095,248,949","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+298,Nokugl (MT-FX-006),NA,Beta-176136,Carvao,710,50,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+299,Cacoal,NA,Beta-383581,Carv. Ceram.,750,30,"-6,472,992,637","-2,505,674,341","GOMES,Jaqueline. Cronologia e mudanca cultural na RDS Amana (Amazonas): um estudo sobre a fase Caiambe da Tradicao Borda Incisa. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2015.",,,C14,Barrancoid,3
+300,Brejo,NA,Beta-260326,?,760,40,"-63,953,495","-8,809,277","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+301,Lago do Limao,NA,OxA-15503,Carv. Ceram.,846,27,"-6,034,264,401","-3,185,688,704","MORAES,Claide de Paula. Amazonia ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2013.",,,C14,Barrancoid,3
+302,Nova Esperanca,NA,Beta-242447,Carvao,850,40,"-6,385,907,167","-43,007,836","Neves,2010 - Relatorio Gasoduto",,,C14,Barrancoid,3
+303,Brejo,NA,Beta-260325,?,890,40,"-63,953,495","-8,809,277","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+304,Kuhikugl (MT-FX-011),NA,Beta-72263,Carvao,900,60,"-5,311,045,323","-1,255,866,583","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+305,Hialugihiti (MT-FX-013),NA,Beta-88363,Carvao,910,80,"-5,320,404,645","-1,235,298,493","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+306,Lago Grande,NA,Beta-178919,Carvao,910,50,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+307,Lago Grande,NA,Beta-178921,Carvao,910,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+308,Antonio Galo,NA,Beta-297120,Carv. Ceram.,930,30,"-6,033,472,785","-3,198,334,631","MORAES,Claide de Paula. Amazonia ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2013.",,,C14,Barrancoid,3
+309,Brejo,NA,Beta-294083,?,940,30,"-63,953,495","-8,809,277","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+310,Lago Grande,NA,Beta-143601,Carvao,950,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+311,Lago Grande,NA,Beta-143602,Carvao,950,30,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+312,Hatahara,NA,Beta-143595,Carvao,960,40,"-6,020,451,604","-3,274,590,055","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+313,Lago Grande,NA,Beta-143607,Carvao,960,30,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+314,Cacoal,NA,Beta-383582,Carvao (feicao),980,30,"-6,472,992,637","-2,505,674,341","GOMES,Jaqueline. Cronologia e mudanca cultural na RDS Amana (Amazonas): um estudo sobre a fase Caiambe da Tradicao Borda Incisa. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2015.",,,C14,Barrancoid,3
+315,Ilha de Santo Antonio,NA,Beta-260332,Carvao,990,40,"-63,950,553","-880,661","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+316,Sao Miguel do Cacau,NA,Beta-386836,Carvao,990,30,"-6,459,946,952","-2,635,987,023","GOMES,Jaqueline. Cronologia e mudanca cultural na RDS Amana (Amazonas): um estudo sobre a fase Caiambe da Tradicao Borda Incisa. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2015.",,,C14,Barrancoid,3
+317,Lago Grande,NA,Beta-178925,Carvao,1000,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+318,Nokugl (MT-FX-006),NA,Beta-72261,Carvao,1000,70,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+319,Laguinho,NA,Beta-258147,Carvao,1030,40,"-6,012,817,098","-328,463,696","Castro,2009 - Dissertacao de mestrado (Laguinho)",,,C14,Barrancoid,3
+320,Nokugl (MT-FX-006),NA,Beta-176141,Carvao,1030,60,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+321,Brejo,NA,Beta-260322,?,1040,60,"-63,953,495","-8,809,277","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+322,Brejo,NA,Beta-260324,?,1040,40,"-63,953,495","-8,809,277","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+323,Lago Grande,NA,Beta-143600,Carvao,1050,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+324,Lago Grande,NA,Beta-178922,Carvao,1050,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+325,Laguinho,NA,Beta-258145,Carvao,1060,40,"-6,012,817,098","-328,463,696","Castro,2009 - Dissertacao de mestrado (Laguinho)",,,C14,Barrancoid,3
+326,Hatahara,NA,Beta-143596,Carvao,1070,70,"-6,020,451,604","-3,274,590,055","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+327,Lago Grande,NA,Beta-178927,Carvao,1070,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+328,Boa Esperanca,NA,Beta-321196,Carv. Ceram.,1080,30,"-6,476,222,381","-2,481,238,906","COSTA,Bernardo Lacale da Silva. Levantamento arqueológico na Reserva de Desenvolvimento Sustentavel (RDS) Amana: Estado do Amazonas. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2012.",,,C14,Barrancoid,3
+329,Hatahara,NA,Beta-143598,Carvao,1080,40,"-6,020,451,604","-3,274,590,055","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+330,Acutuba,NA,Beta-109182,Carvao,1100,60,"-6,036,567,908","-3,095,248,949","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+331,Lago Grande,NA,Beta-143605,Carvao,1100,30,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+332,Osvaldo,NA,Beta-143626,Carvao,1100,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+333,Hatahara,NA,WK-16223,Carvao,1105,37,"-6,020,451,604","-3,274,590,055","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+334,Brejo,NA,Beta-260321,?,1120,40,"-63,953,495","-8,809,277","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+335,Lago Grande,NA,Beta-143604,Carvao,1130,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+336,Lago das Pombas,NA,Beta-323285,Carv. Ceram.,1140,30,"-62,537,228","-1,878,145","LIMA,Marjorie do Nascimento. Mestrado",,,C14,Barrancoid,3
+337,Lago Grande,NA,Beta-178924,Carvao,1140,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+338,Lago Grande,NA,Beta-178923,Carvao,1150,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+339,Lago Grande,NA,Beta-143603,Carvao,1150,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+340,Brejo,NA,Beta-260323,?,1160,40,"-63,953,495","-8,809,277","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+341,Pontao,NA,Beta-304002,,1170,40,"-5,823,040,059","-280,655,098",Lima et al. 2016 As cerâmicas Saraca IN Cerâmicas Arqueológicas,,,C14,Barrancoid,3
+342,Hatahara,NA,WK-16224,Carvao,1191,38,"-6,020,451,604","-3,274,590,055","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+343,Pilao,NA,Beta-242451,Carvao,1210,40,"-6,033,500,013","-3,201,999,967","Neves,2010 - Relatorio Gasoduto",,,C14,Barrancoid,3
+344,Antonio Galo,NA,OxA1550,Carv. Ceram.,1216,27,"-6,033,472,785","-3,198,334,631","MORAES,Claide de Paula. Amazonia ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2013.",,,C14,Barrancoid,3
+345,Acutuba,NA,Beta-106437,Carvao,1230,70,"-6,036,567,908","-3,095,248,949",Lima et al. 2006 - a fase acutuba,,,C14,Barrancoid,3
+346,Pontao,NA,Beta-304001,,1230,40,"-5,823,040,059","-280,655,098",Lima et al. 2016 As cerâmicas Saraca IN Cerâmicas Arqueológicas,,,C14,Barrancoid,3
+347,Pontao,NA,Beta-304003,,1230,40,"-5,823,040,059","-280,655,098",Lima et al. 2016 As cerâmicas Saraca IN Cerâmicas Arqueológicas,,,C14,Barrancoid,3
+348,Lago Grande,NA,Beta-178928,Carvao,1240,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+349,Sao Miguel do Cacau,NA,Beta-383585,Carvao,1240,30,"-6,459,946,952","-2,635,987,023","GOMES,Jaqueline. Cronologia e mudanca cultural na RDS Amana (Amazonas): um estudo sobre a fase Caiambe da Tradicao Borda Incisa. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2015.",,,C14,Barrancoid,3
+350,Lago Grande,NA,Beta-143606,Carvao,1260,40,"-6,026,903,152","-3,229,096,552","Lima,2008 - Tese de doutora (Izildinha)",,,C14,Barrancoid,3
+351,Osvaldo,NA,Beta-143623,Carvao,1260,30,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+352,Acutuba,NA,Beta-90723,Carvao,1270,60,"-6,036,567,908","-3,095,248,949",Lima et al. 2006 - a fase acutuba,,,C14,Barrancoid,3
+353,Cacoal,NA,Beta-294196,Carvao (feicao),1270,30,"-6,472,992,637","-2,505,674,341","GOMES,Jaqueline. Cronologia e mudanca cultural na RDS Amana (Amazonas): um estudo sobre a fase Caiambe da Tradicao Borda Incisa. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2015.",,,C14,Barrancoid,3
+354,Cacoal,NA,Beta-386834,Carvao,1270,30,"-6,472,992,637","-2,505,674,341","GOMES,Jaqueline. Cronologia e mudanca cultural na RDS Amana (Amazonas): um estudo sobre a fase Caiambe da Tradicao Borda Incisa. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2015.",,,C14,Barrancoid,3
+355,Osvaldo,NA,Beta-143613,Carvao,1290,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+356,Osvaldo,NA,Beta-143609,Carvao,1290,30,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+357,Hatahara,NA,Beta-143599,Carvao,1300,40,"-6,020,451,604","-3,274,590,055","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+358,Osvaldo,NA,Beta-143620,Carvao,1310,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+359,Osvaldo,NA,Beta-143619,Carvao,1320,60,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+360,Osvaldo,NA,Beta-143612,Carvao,1330,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+361,Saladero,NA,GX-1618,Carvao,1330,95,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
+362,Osvaldo,NA,Beta-143617,Carvao,1340,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+363,Osvaldo,NA,Beta-143618,Carvao,1350,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+364,Osvaldo,NA,Beta-143627,Carvao,1350,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+365,Osvaldo,NA,Beta-143616,Carvao,1350,30,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+366,Osvaldo,NA,Beta-143614,Carvao,1360,50,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+367,Nokugl (MT-FX-006),NA,Beta-176143,Carvao,1370,60,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+368,Osvaldo,NA,Beta-143610,Carvao,1370,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+369,Brejo,NA,Beta-294082,Carvao (fogueira),1390,40,"-63,953,495","-8,809,277","ZUSE,Silvana. Variabilidade cerâmica e diversidade cultural no Alto rio Madeira,Rondonia. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2014.",,,C14,Barrancoid,3
+370,Laguinho,NA,Beta-258146,Carvao,1400,40,"-6,012,817,098","-328,463,696","Castro,2009 - Dissertacao de mestrado (Laguinho)",,,C14,Barrancoid,3
+371,Osvaldo,NA,Beta-143615,Carvao,1440,70,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+372,Saladero,NA,SI-864,Carvao,1470,70,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
+373,Sete Irmas do Aneba,NA,Beta-303998,,1490,40,"-5,865,479,566","-282,389,368",Lima et al. 2016 As cerâmicas Saraca IN Cerâmicas Arqueológicas,,,C14,Barrancoid,3
+374,Boa Esperanca,NA,Beta-294193,Carvões,1520,30,"-6,476,222,381","-2,481,238,906","COSTA,Bernardo Lacale da Silva. Levantamento arqueológico na Reserva de Desenvolvimento Sustentavel (RDS) Amana: Estado do Amazonas. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2012.",,,C14,Barrancoid,3
+375,Bom Socorro (AM-IT-35),NA,Beta-420444,Carvao,1550,30,"-5,856,133,227","-3,113,146,192","Bassi,2015. Tese de Doutorado",,,C14,Barrancoid,3
+376,Osvaldo,NA,Beta-143608,Carvao,1550,40,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+377,Bom Jesus do Bar,NA,Beta-406073,Carv. Ceram.,1560,30,"-6,471,119,953","-2,481,595,323","GOMES,Jaqueline. Cronologia e mudanca cultural na RDS Amana (Amazonas): um estudo sobre a fase Caiambe da Tradicao Borda Incisa. Dissertacao de Mestrado. PPGA-MAE/USP. Sao Paulo,2015.",,,C14,Barrancoid,3
+378,Floresta,NA,Beta-297129,Carv. Ceram.,1560,30,"-63,879,551","-0,235372","LIMA,Marjorie do Nascimento. Mestrado",,,C14,Barrancoid,3
+379,Acutuba,NA,Beta-106438,Carvao,1590,60,"-6,036,567,908","-3,095,248,949",Lima et al. 2006 - a fase acutuba,,,C14,Barrancoid,3
+380,Bom Socorro (AM-IT-35),NA,Beta-410639,Carvao,1650,30,"-5,856,133,227","-3,113,146,192","Bassi,2015. Tese de Doutorado",,,C14,Barrancoid,3
+381,Lago do Limao,NA,OxA15502,Carv. Ceram.,1660,28,"-6,034,264,401","-3,185,688,704","MORAES,Claide de Paula. Amazonia ano 1000: territorialidade e conflito no tempo das chefias regionais. Tese de doutorado. PPGA-MAE/USP. Sao Paulo,2013.",,,C14,Barrancoid,3
+382,Osvaldo,NA,Beta-143611,Carvao,1730,90,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+383,Osvaldo,NA,Beta-143624,Carvao,1740,30,"-6,034,407,292","-3,190,730,719","Neves,2003 - Relatório FAPESP",,,C14,Barrancoid,3
+384,Ponta Grossa (AM-IT-9),NA,N-2354,Carvao,1740,65,"-5,819,915,957","-28,324,768",Simões et al. 1987 - compilacao,,,C14,Barrancoid,3
+385,Ponta Grossa (AM-IT-9),NA,N-2353,Carvao,1750,105,"-5,819,915,957","-28,324,768",Simões et al. 1987 - compilacao,,,C14,Barrancoid,3
+386,Nokugl (MT-FX-006),NA,Beta-176138,Carvao,2110,40,"-5,323,431,012","-1,234,177,616","Heckenberger,Michael. 2005. Ecology of Power",,,C14,Barrancoid,3
+387,Saladero,NA,SI-865,Carvao,2540,70,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
+388,Nova Esperanca,NA,Beta-242448,Carvao,2600,40,"-6,385,907,167","-43,007,836","Neves,2010 - Relatorio Gasoduto",,,C14,Barrancoid,3
+389,Saladero,NA,Y-40,Carvao,2786,88,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
+390,Saladero,NA,Y-294,Carvao,2800,50,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
+391,Saladero,NA,Y-316,Carvao,2820,80,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
+392,Saladero,NA,OxA-28166,Carvao,3080,25,"-62,200,867","8,681,766","Oliver,Jose R. 2014. Nuevos aportes a la arqueología del sitio El Saladero,bajo Orinoco,Venezuela. IN. Antes de Orellana. Actas del 3er Encuentro Internacional de Arqueología Amazónica. Quito: IFEA/FLACSO.",,,C14,Barrancoid,3
