@@ -1,14 +1,15 @@
 # From the Margins to the Mainstream: Code, Data, and Results
 
-##Data
+## Data
 
-##Code
+## Code
 
-##Results
+## Results
 
 #
 
-`R version 4.3.0 (2023-04-21 ucrt)
+```
+R version 4.3.0 (2023-04-21 ucrt)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 Running under: Windows 10 x64 (build 19044)
 
@@ -58,4 +59,5 @@ loaded via a namespace (and not attached):
  [93] cli_3.6.1              spatstat.sparse_3.0-1  ggmap_3.0.2            spam_2.9-1            
  [97] fansi_1.0.4            viridisLite_0.4.2      sjstats_0.18.2         dplyr_1.1.2           
 [101] doSNOW_1.0.20          gtable_0.3.3           classInt_0.4-9         lifecycle_1.0.3       
-[105] httr_1.4.6             MASS_7.3-58.4 `        
+[105] httr_1.4.6             MASS_7.3-58.4 
+```
