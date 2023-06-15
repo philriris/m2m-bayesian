@@ -1,1 +1,1 @@
-# From the margins to the Mainstream: Code, Data, and Results
+# From the Margins to the Mainstream: Code, Data, and Results
