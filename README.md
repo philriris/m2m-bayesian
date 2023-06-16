@@ -1,14 +1,15 @@
 # From the Margins to the Mainstream: Code, Data, and Results
 
-## Data and preparation
+This repository contains all of the data and R scripts necessary to reproduce the analyses presented in **From the margins to the Mainstream: understanding the Polychrome Tradition Expansion in Central Amazon through spatial and chronological modelling**, currently in review (16/06/2023). 
 
-## Permutation tests
+The repository is organised into four folders:
 
-## Bayesian inference
+- ``Code`` - containing R scripts
+- ``Data`` - containing the radiocarbon and spatial data
+- ``Figures`` - comprising the images presented in the manuscript and its supplementary information
+- ``R_Images`` - .RData files of the modelling output, for visualisation and diagnostics
 
-## Plotting and images
-
-# R session information
+### R session information
 
 ```
 R version 4.3.0 (2023-04-21 ucrt)
